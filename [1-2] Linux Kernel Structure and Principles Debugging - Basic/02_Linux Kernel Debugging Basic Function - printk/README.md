@@ -118,6 +118,8 @@ tail -f /var/log/messages
 journalctl -k -f
 ```
 
+<br>
+
 ## 실무 활용 팁
 
 ### 1. 효과적인 로그 메시지 작성
